@@ -1,2 +1,7 @@
-# cmake_example
-cmake example with SystemC, fftw and OpenMP
+# CMake Example
+
+CMake configuration to work with:
+
+- SystemC 2.3.1
+- FFTW 3.3.2
+- OpenMP
